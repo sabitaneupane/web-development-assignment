@@ -1,0 +1,17 @@
+{
+  "name": "template1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-to-slides": "^1.0.5",
+    "reveal.js": "^4.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "slide": "markdown-to-slides README.md -d  -o presentation.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
