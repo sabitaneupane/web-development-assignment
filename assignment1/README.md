@@ -181,8 +181,14 @@ Choose from [here](https://mycolor.space)
 - Secondary: #FF8066 (LightOrange)
 - Text: #000000 (Black)
 
-## Second chapter
+# API integration
 
-This chapter does not have sub sections
+## Resources
+
+- https://www.youtube.com/watch?v=FN_ffvw_ksE&ab_channel=CodeBushi
+- https://www.digitalocean.com/community/tutorials/how-to-use-the-javascript-fetch-api-to-get-data
+- https://codepen.io/nahukas/pen/gOpxBvX
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
+- https://www.javascripttutorial.net/javascript-fetch-api/
 
 ## And so on...
