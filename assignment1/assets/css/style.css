@@ -183,3 +183,21 @@ header .navbar-dark .navbar-nav .nav-link:hover {
     background-color: rgba(52, 58, 62, 1);
     transition: 0.5s;
 }
+
+.view-more-button {
+    text-align: center;
+}
+
+.view-more-button a{
+    background-color: #ff8749;
+    color: white;
+    border: 0px;
+    border-radius: 0px;
+    padding: 16px 24px;
+}
+
+
+.view-more-button a:hover{
+    background-color: #212529;
+    color: white;
+}
